@@ -1,3 +1,9 @@
+kdsoap-ws-discovery-client (0.0.1~televic11+3) bullseye-televic-unstable; urgency=medium
+
+  * debian: make dev install arch independent
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 14 Jul 2021 11:39:24 +0200
+
 kdsoap-ws-discovery-client (0.0.1~televic11+2) bullseye-televic-unstable; urgency=medium
 
   * bullseye compile
