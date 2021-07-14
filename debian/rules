@@ -3,9 +3,8 @@
 
 include /usr/share/dpkg/default.mk
 
-# Export this variable so that the build system know to build with the
-# classic submodules way, or with shared libraries used in Debian
-export DEBIAN_BUILD=Debian
+# No testing atm
+DEB_BUILD_OPTIONS=nocheck
 
 %:
 	dh $@

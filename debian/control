@@ -4,6 +4,9 @@ Priority: optional
 Maintainer: Marc Leeman <m.leeman@televic.com>
 Build-Depends: debhelper (>= 10),
                 cmake,
+                extra-cmake-modules,
+                qtbase5-dev,
+                libkdsoap-dev,
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/mleeman/kdsoap-ws-discovery-client.git
 Vcs-Browser: https://github.com/mleeman/kdsoap-ws-discovery-client
