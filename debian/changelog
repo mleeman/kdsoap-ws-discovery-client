@@ -1,3 +1,9 @@
+kdsoap-ws-discovery-client (0.0.1~televic11+2) bullseye-televic-unstable; urgency=medium
+
+  * bullseye compile
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 14 Jul 2021 11:27:03 +0200
+
 kdsoap-ws-discovery-client (0.0.1~televic10+1) buster-televic-unstable; urgency=medium
 
   * Initial release
