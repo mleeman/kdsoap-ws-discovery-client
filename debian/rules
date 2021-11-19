@@ -4,7 +4,7 @@
 include /usr/share/dpkg/default.mk
 
 # No testing atm
-DEB_BUILD_OPTIONS=nocheck
+DEB_BUILD_OPTIONS+=nocheck
 
 %:
 	dh $@
