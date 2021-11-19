@@ -1,3 +1,9 @@
+kdsoap-ws-discovery-client (0.0.1~televic11+4) bullseye-televic-unstable; urgency=medium
+
+  * rules: extend DEB_BUILD_OPTIONS, not override
+
+ -- Marc Leeman <m.leeman@televic.com>  Fri, 19 Nov 2021 16:15:03 +0100
+
 kdsoap-ws-discovery-client (0.0.1~televic11+3) bullseye-televic-unstable; urgency=medium
 
   * debian: make dev install arch independent
